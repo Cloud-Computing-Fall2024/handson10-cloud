@@ -1,4 +1,4 @@
-from pyspark.sql import SparkSession
+from pyspark.sql import 
 
 AWS_ACCESS_KEY_ID = 'SECRET'
 AWS_SECRET_ACCESS_KEY = 'SECRET'
